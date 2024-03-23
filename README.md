@@ -14,11 +14,11 @@
 - 💬 Ask me about **Java, Firebase, Android.**
 
 - 📫 How to reach me: **aniruddhavyadav21@gmail.com**
-
+<br>
 <p align="left">
-  <img align="right" src="https://images.template.net/148779/android-skate-animated-stickers-zyjtb.gif" height="300" width="500">
+  <img align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2022/08/1_xuYj6HV1t9tREKFodxj9Qg.gif" height="300" width="500">
 </p>
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/aniruddha_y21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aniruddha_y21" height="30" width="40" /></a>
